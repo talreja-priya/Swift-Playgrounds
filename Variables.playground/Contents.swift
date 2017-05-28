@@ -1,11 +1,8 @@
-//: Playground - noun: a place where people can play
-
 import UIKit
 
 let firstNumber = 5
 
-//firstNumber = 2
-//above commented line error: cannot assign to value: 'firstNumber' is a 'let' constant
+//firstNumber = 2 /* error: cannot assign to value: 'firstNumber' is a 'let' constant */
 
 var a = 2
 var b = 5
