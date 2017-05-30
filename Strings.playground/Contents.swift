@@ -38,7 +38,6 @@ var string = "\(no1) * \(no2) is equal to \(mul)"
 print(string)
 
 //String Length
-
 string.characters.count
 
 
@@ -58,7 +57,6 @@ else
 
 
 //String Unicode
-
 let OhmString = "\u{2126}"
 
 //Converting to upper/lower case
