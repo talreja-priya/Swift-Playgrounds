@@ -6,3 +6,4 @@ Below is the list of playgrounds
 
 * Constants and Variables
 * Strings and Characters
+* Collection Types
